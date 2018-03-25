@@ -3,3 +3,6 @@ Fight a big blobby sorta golem thing.
 -When down to 1 HP, a hit kills.
 
 -Pick a STR or Dmg or something, and that should split too.
+
+The more they split, the weaker and faster they get.
+ STR--, DEX++, CON--
