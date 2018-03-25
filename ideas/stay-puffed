@@ -1,0 +1,5 @@
+Fight a big blobby sorta golem thing.
+-X HP, hitting it doesn't do damage - instead, splits it into 2x things with X/2 HP.
+-When down to 1 HP, a hit kills.
+
+-Pick a STR or Dmg or something, and that should split too.
