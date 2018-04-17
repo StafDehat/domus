@@ -1,0 +1,42 @@
+Mini-Centaur CR2
+XP 600
+Size: Medium (Small weapons)
+Init +5; Senses darkvision 60 ft.; Perception +6
+
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+6 armor, +1 Dex, +1 natural, +2 shield, 0 size)
+hp 25 (3d10+8)
+Fort +3, Ref +4, Will +5
+
+OFFENSE
+Speed 40 ft
+Melee longsword +3 (1d6+2/19–20), 2 hooves -2 (1d4+1)
+Ranged spear +3 (1d6+2/×3)
+Space 5 ft, Reach 5 ft
+
+STATISTICS
+Str 15, Dex 13, Con 15, Int 11, Wis 14, Cha 12
+Base Atk +3; CMB +6; CMD 17 (21 vs. trip)
+Feats: Improved Initiative, Run
+
+
+
+Mini-Minotaur CR2
+XP: 600
+Size: Small
+Init +0, Senses: Darkvision 60ft, Perception +6
+
+DEFENSE
+AC 16, touch 11, flat-footed 16 (+5 natural, +1 size)
+hp  (3d10+12)
+Fort +4, Ref +5, Will +5
+Defensive Abilities: Can't be flat-footed
+Flee at <=10 hp
+
+OFFENSE
+Charge Lukas first, then use axe.  If landing, add Power Attack.
+Speed 20 ft.
+Melee greataxe +5 (1d10+4/×3) and gore +0 (1d3+1)
+Space 5ft; Reach 5ft
+Special Attacks powerful charge (gore +7, 2d3+4)
+
