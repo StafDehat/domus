@@ -14,10 +14,16 @@ How long does it take?
 Magical Academy
 Create (from nothing):
   121 Goods, (comp'd - you have a house)
-  17 Influence,
+  17 Influence, 
   110 Labor, (Reduce this, more if he gets Willenbrock to teach)
   5 Magic
   Total: (5,630 gp)
+He has:
+  121/121 Goods (ie: The house)
+  10/17 Influence (House is reputed to be haunted already)
+  60/110 Labour, from necros at the school.  They want up-front pay, though.
+  0/5 Magic
+
 Rooms 1 Alchemy Lab, 2 Baths, 1 Bedroom, 1 Bell Tower, 1 Bunks, 2 Classrooms, 1 Common Room, 1 Courtyard, 1 Greenhouse, 1 Kitchen, 1 Lavatory, 1 Magical Repository, 1 Observation Dome, 2 Offices, 1 Scriptorium, 1 Sitting Room, 1 Statue
 An institution for training students in the magical arts.
 
@@ -64,3 +70,223 @@ Jondi's unexpected expenses:
  https://www.d20pfsrd.com/gamemastering/other-rules/downtime/
 
 Make him name it.
+
+
+
+
+
+
+
+
+
+
+People to hire:
+
+http://www.d20pfsrd.com/bestiary/npc-s/npc-5/whispering-way-cultist/
+Human Cultist
+Specialization school: Undead (Specialized Necromancy)
+Opposition Schools: Abjuration, Enchantment
+Special ability: Bolster
+Spellbook:
+  L2: acid arrow, false life, scorching ray, Command Undead
+  L1: chill touch, mage armor, ray of enfeeblement, vanish
+  Cantrips: Bleed, Detect Magic, Ray of Frost, Read Magic, Touch of Fatigue
+  and 1d3 random spells of level 1 and 2
+Professional Skills:
+  Knowledge (arcana)
+  Knowledge (religion)
+  Craft (alchemy)
+  Stealth
+  Spellcraft
+  People skills
+  Disguise
+  Disable Device
+  Use Magic Device
+  Scribe Scroll
+  Proficiency with sword & bow
+Languages:
+  Common
+  Draconic
+  Necril
+  one other
+
+
+http://www.d20pfsrd.com/bestiary/npc-s/npc-2/blood-bureaucrat-human-necromancer-3/
+Human Politician
+Specialization school: Necromancy
+Opposition Schools: Conjuration, Illusion
+Special Ability: Grave touch
+Spellbook:
+  L2: Command undead, detect thoughts, spectral hand
+  L1: Chill touch, obscuring mist, ray of enfeeblement, shield
+  Cantrips: Bleed, Detect magic, Light, Ray of frost, Touch of fatigue
+Professional skills:
+  Linguistics
+  Knowledge (Arcana)
+  Appraise
+  Knowledge (History)
+  People skills
+  Scribe Scroll
+  Command Undead
+Languages:
+  Common
+  Draconic
+  Gnoll
+  Infernal
+  +2 additional
+
+
+http://www.d20pfsrd.com/bestiary/npc-s/npc-1/historian/
+Gnome Historian
+Special abilities: Speak with Animals
+Spellbook:
+  L2: Detect Thoughts, False Life
+  L1: alarm, animate rope, comprehend languages
+  Cantrips: dancing lights, ghost sound, prestidigitation, Daze, Detect Magic, Mage Hand, Read Magic
+Professional skills:
+  Knowledge (History)
+  Linguistics
+  Appraise
+  Knowledge (Arcana)
+  Knowledge (Engineering)
+  Knowledge (Geography)
+  Knowledge (Dungeoneering)
+  Profession (scribe)
+  Spellcraft
+  Arcane Bond (Hawk familiar)
+  Low-light vision
+  Eldritch Eye
+  Scribe Scroll
+Languages:
+  Common
+  Draconic
+  Dwarven
+  Gnome
+  Terran
+  +5 additional
+
+
+http://www.d20pfsrd.com/bestiary/npc-s/npc-2/battle-mage-elf-wizard-3/
+Elf Mercenary
+Special abilities: Hand of the Apprentice
+Spellbook:
+  L2: mirror image, scorching ray
+  L1: magic missile, shield, shocking grasp
+  Cantrips: daze, detect magic, light, resistance
+Professional Skills:
+  Knowledge (arcana)
+  Spellcraft
+  Knowledge (history)
+  Acrobatics
+  Stealth
+  Climbing
+  Item identification
+  Combat Casting
+  Scribe Scroll
+Languages:
+  Common
+  Draconic
+  Elven
+  Orc
+  Sylvan
+
+
+http://www.d20pfsrd.com/bestiary/npc-s/npc-2/human-wizard-3/
+Human Maven
+Special abilities: Hand of the Apprentice
+Spellbook:
+  L2: Bear’s endurance, summon monster II
+  L1: Endure elements, Feather fall, Unseen servant
+  Cantrips: Arcane mark, Light, Resistance, Prestidigitation
+Professional Skills:
+  Knowledge (arcana)
+  Craft (alchemy)
+  Spellcraft
+  Appraise
+  Knowledge (engineering)
+  Knowledge (history)
+  Knowledge (local)
+  Knowledge (nature)
+  Profession (librarian)
+  Heal
+  Survival
+  Craft Wondrous Item
+  Scribe Scroll
+Languages Aquan, Common, Gnome, Halfling
+
+
+http://www.d20pfsrd.com/bestiary/npc-s/npc-3/phethean-klexius-human-wizard-4/
+Human Performer
+Specialization school: Illusion
+Opposition Schools: Evocation, Necromancy
+Spellbook:
+  L2: Create pit, Hypnotic pattern, invisibility, staggering fall
+  L1: Color spray, Grease, Mage armor, silent image
+  Cantrips: Dancing lights, Detect magic, ghost sound, mage hand, read magic
+Professional Skills:
+  Knowledge (arcana)
+  Spellcraft
+  Knowledge (local)
+  Appraise
+  Craft (alchemy)
+  Knowledge (dungeoneering)
+  Knowledge (engineering)
+  Knowledge (geography)
+  Knowledge (history)
+  Knowledge (nature)
+  Knowledge (nobility)
+  Knowledge (planes)
+  Knowledge (religion)
+  Linguistics
+  People skills
+  Cypher Magic
+Languages:
+  Common
+  Draconic
+  Giant
+  Goblin
+  Orc
+  Sylvan
+
+
+http://www.d20pfsrd.com/bestiary/npc-s/npc-3/investigator-wizard-human-diviner-4/
+Human Detective
+Specialization school: Divination
+Opposition Schools: Illusion, Necromancy
+Special Abilities: Diviner's Fortune
+Spellbook:
+  L2: Cat’s grace, detect thoughts, web
+  L1: Comprehend languages, feather fall, mage armor, magic missile
+  Cantrips: Dancing lights, Detect magic, Detect poison, Message
+Professional skills:
+  Spellcraft
+  Knowledge (arcana)
+  Knowledge (local)
+  Knowledge (geography)
+  Knowledge (history)
+  Knowledge (nobility)
+  Knowledge (religion)
+  People skills
+  Combat Casting
+  Scribe Scroll
+Languages:
+  Common
+  Draconic
+  Dwarven
+  Elven
+  Orc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
