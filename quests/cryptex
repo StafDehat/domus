@@ -56,6 +56,10 @@ See what people do for ~30-60m before going into the vision stuff.
   Your mules are nowhere to be seen, but you can see a lightly-plowed trail taking off in the direction opposite where the ball of light fell.
   Behind the ridge where the ball fell, the sky glows a reddish-orange.
   <<< They investigate, or a friend comes to encourage, or Fatagris just shows up.  Whatev.  Kill 'em. >>>
+  Your name: Falin
+  Friend's name: Ral
+  Friend encourages investigatin: Greenpatch is over that ridge and might need help.
+  Linguistics to recognize a very-old dialect of common.
   A large (10 feet tall), vaguely-humanoid beast rises before you.
     It "stands" upright, as if walking on two legs.
     Where its legs would be however, is a turbulent vortex of fire and rock, as if the creature's waist rested upon a magma-tornado.
@@ -71,10 +75,58 @@ See what people do for ~30-60m before going into the vision stuff.
 
 
 -Fatagris makes the mountains volcanic, eruption kills you & your town.
-  You are 
+  You feel hands on your side, shaking you as you hear a woman's voice:
+  "Vinson, wake up!  Highmount is burning!"
+  Opening your eyes, you see that you're in a cozy, well-maintained, but barebones cabin.
+  It is a warm, humid night.  The shutters of this room are wide open, and those windows allow an unnatural red glow into the room, giving this room a surreal feeling.
+  You lie on a wooden-framed bed with a straw mattress.  Bits of straw poke you uncomfortably through the blankets.
+  The room has a dirt floor, and bare walls of chinked logs.  The chinking is in good repair.
+  A walking stick leans against the wall in a corner next to the bed.
+  A homely lady stands next to you, shaking you awake.
+  ---
+  As you stand, pain shoots up your right leg from the ankle.  The lady hands you the walking stick.
+  ---
+  Outside, you stand in a mountainous region.  The tallest mountain appears to be missing its peak.
+  A giant plume of smoke rises from that mountain, and heavy clouds above the mountain reflect a red glow that seems to be coming from the peak.  It appears as if the sky itself is aflame.
+  You see a glowing red liquid start to flow down from the mountain - presumably Highmount.
+  Around you, the village is awake and in disarray.  Many stand around you, staring at the burning mountain.  Some are loading horsecarts with their possessions.  One man runs past you, away from the mountain.
+  ---
+  A concussive force knocks you to the ground.
+  Looking at the source, you see a horse-sized crater in the soil, about 30 feet from you.
+  You can see the top of a boulder in the crater, and feel intense heat radiating from the boulder.
+  A man's arm lies on the edge of the crater, the skin blistering and popping like bacon.
+  You hear a scream and a lady runs from a small cabin toward the crater.
+  Most of those who were staring at the mountain, begin panicking.  More run away from the mountain now.
+  ---
+  Stuff happens, eventually:
+  A black snow begins to fall around you, and you begin to feel a burning sensation in your chest & throat.
+  Your eyes are burning, and you are unable to catch your breath.
+  You weaken, and stumble.  The lady coughs as she tries to help you to your feet, but your vision and consciousness fade to black.
   Sound: Volcano soundscape
 
 -Cult of Fatagris is burning you on a stake, "purifying the heretics".  Your fellow burnees are shouting that The Warming will kill everyone, the cult insists Fatagris will protect the righteous.
+  You find yourself standing upon a roughshod wooden platform, amid a pile of lumber.
+  It looks like you're in the center of a town square - a cobblestone-paved clearing among buildings.
+  A man wearing red robes is standing on a nearby stage, of sorts.  It looks hastily constructed.
+  A ring of more red-robed figures, their backs to you, surrounds you.
+  The man on stage speaks.  You recognize the effect of prestidigitation increasing the volume of his voice, to be heard over the crowd.
+  He speaks in a language unfamiliar to you, but you recognize the word "Fatagris" among the gibberish.
+  The meter of his voice suggests he's reciting something of significance, from well-practiced memory.
+  (( Linguistics to recognize Infernal ))
+  "Ah-Say Rom, Ooh-burd-sana, Rom ah-rah morts mooh-neebee dats Vays Fatagris int ensee oohree nah-tay-lee."
+  "So it was commanded that the non believers be purified by the intense light of Fatagris."
+  The man switches to common.
+  "For speaking heresy against our lord Fatagris, these usurpers will be burned until dead, that their souls may be sent to our lord, where they might beg forgiveness."
+  The ring of red robed figures parts, to allow a man carrying a torch to approach.
+  A man tied behind you is shouting at the crowd.
+  "You're working against yourselves!  Fatagris will turn this world into a hellscape!"
+  "You must see where this is headed!  Your crops are failing, the waters continue to rise."
+  "Fatagris does not care for you - he's using you!  He seeks only to make this world his new home!"
+  "We can stop this, but we must fight together, not among ourselves!"
+  The man with a torch briefly makes eye contact with you, a pained expression on his face, and he mouths the words "I am sorry", before touching the torch to the pile of lumber on which you stand.
+  The fire spreads quickly across the pile of lumber.  Your own passing is far from quick, however.
+  The seconds drag on endlessly, as you are acutely aware of every lick of flame as it works up your body.
+  You count it a blessing when your seared lungs can no longer provide enough air to keep you conscious.
  Sound: Riot Angry mob
 
 -You're an Iceborn too old/weak/infirm to make the trip North, and now you're dying of heat exposure.
@@ -83,7 +135,7 @@ See what people do for ~30-60m before going into the vision stuff.
   Many bouquets of blue and white flowers surround you.
   You feel horrible - a throbbing headache, dizzy, nauseaus, weak, and your breathing is shallow.
   Your skin is covered in blisters and has a purplish cast.
-  You hold a sheet of paper in your hands, on which is written:
+  You hold a sheet of paper in your hands, on which is written (in Auran):
   "The elders/mages/etc believe that if The Warming continue at its present rate, the Northern mountains will remain habitable to our people for another 200 years.
    We have every expectation that your design may be constructed within that time.
    I love you father, and I will miss you.
@@ -94,19 +146,35 @@ See what people do for ~30-60m before going into the vision stuff.
 -You are wielding the Sihedron during "Elemental War" to attack Fatagris.
   Sound: 1 hour fantasy battle
   You stand in the mountains in what appears to be a very active volcanic region.
-  Battle magic flares all around you.  Waves of water and lava, rays of heat and cold, ice spears and fireballs, glacial walls and walls of flame, fire and ice elementals peppered among the battle.
-  Demons soar through the air, breathing fire upon those fighting below.  Vapor lingers in the air behind ice-encrusted weapons as blades pop and sizzle in the bodies of demons.
-  You are wearing full plate armor, a heavy metal shield strapped to your left arm, and wielding a brightly-glowing, pure-white longsword in your right.
-  About 1 foot directly above you floats a multi-coloured, seven-pointed star.
+  Dark, sooty clouds cast the area in heavy shadow.  The bottoms of those clouds flicker with reflections of light from the battle raging around you.
+  Battle magic flares everywhere.
+  Waves of water and ice crash into waves of lava, instantly created ridges of obsidian in the landscape.
+  Rays of heat and cold cut gashes through armies of man and beast.
+  Spears of ice and balls of fire shoot through the air.
+  Glacial walls and walls of flame provide cover for the flanks of armies.
+  Fire and ice elementals are peppered among the battle.
+  Soldiers form phalanx walls around casters, who hurl destruction into their enemy's ranks.
+  Everywhere, you see blackened corpses, and bodies impaled upon large spikes of ice.
+  Demons soar through the air, breathing fire upon those fighting below.
+  Vapor lingers in the air behind ice-encrusted weapons as blades pop and sizzle in the bodies of demons.
+  ---
+  You are wearing full plate armor, a heavy metal shield strapped to your left arm, bearing the holy symbol of Sarenrae, and wielding pure white, radiant longsword in your right.
+  An armspan above you floats a multi-coloured, seven-pointed star.  It rotates slowly.
   Before you is a large cave opening, deeper into this mountain.
   Two beasts appear to be guarding the opening.
     One, an immense amalgum of bear, bull, and serpent, stands on six-legs, is covered with glimmering red scales and wrapped in chains.
     The other, a fanged, three-eyed giant, wears grayish armor.  Where its black and red flesh is exposed, it glows sullenly, reminiscient of a dying campfire, smoldering embers visible under a layer of ash.
-  You have the distinct impression that they don't plan on allowing you passage - roll for initiative.
+  A regiment of 20 men wielding frosty spears approach the mouth of the cavern, shields up.
+  The bearbull charges into the center of the formation.  Two men set their spears against the charge, and the spears sink deep then snap as the men are trampled.
+  The bearbull lowers its head, impaling a man on one of its bull horns.  The man drops his spear, but draws a shortsword from his side and starts battering the bearbull about the head in a futile act of defiance.
+  The bearbull raises its head, soldier still impaled, turns to its right, and spews fire from its mouth, onto half the formation.
+  The giant approaches the other half of the formation, swinging its massive sword.  It cleaves two men in half, crushes a third against the blade, and continues swinging until that third man is slammed into a fourth.  Both men fall broken onto the stone, as the giant turns its head to face a fifth.  A third eye opens on the giant's head, shooting an orange beam that immolates the fifth man.
+  What's left of the regiment, breaks in a panic and scatters.  Out of formation, the men are quickly cut down by demons roaming the battlefield.
+  You have the distinct impression that these creatures don't intend to allow you entrance - roll for initiative.
 
   You: http://www.d20pfsrd.com/bestiary/npc-s/npc-20/elicia-stormraven/
-  Them: http://paizo.com/pathfinderRPG/prd/bestiary2/thrasfyr.html
-        http://paizo.com/pathfinderRPG/prd/bestiary3/oni.html (The Fire one, obviously)
+  Them: https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thrasfyr/
+        https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-fire-yai/
   Sihedron = Plot Armor
 
   As you enter the cavern, the heat hammers at you, stifling in your armor, but then the 7-pointed star floating above you begins glowing, and you feel comfortable once again.
@@ -115,13 +183,20 @@ See what people do for ~30-60m before going into the vision stuff.
   Amid the lake, like an offshore oil platform is amid an ocean, is an obsidian construct projecting a visible beam veritically into the ceiling of the cavern.
   It looks like the beam has melted the stone itself, forming a vertical shaft through which it projects.
   The stone around the shaft opening is so hot it glows brightly red, and heat distortion radiates from it.
-  The monster (Fatagris) speaks in Infernal, ordering his bros to kill you.
+  The monster (Fatagris) speaks in Infernal,
+    Summons a bunch of devils, ordering his bros to kill you.
   He sends his demons at you, your boys phalanx and split a gap for you, scream at you to take out Fatagris.
-  As you approach, Fatagris
+  As you approach, Fatagris attacks, it fails.
+  https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/archdevil/archdevil-dispater/
   "The world thanks you for your sacrifice."
+  Fatagris glares at the star floating above your head, and speaks:
+    "Curse you Ragathiel.  Will I never be free of you?"
+  You wound him, he falls into the lava pit.
+
 
 -You're holding an onyx spike & alabaster hammer, spike positioned over the center of sihedron, on Anvil of Fury.  There are 14 people around you.
-  A man with you offers to break it for you, and you can scatter the pieces instead.  Someone swings, sihedron shatters.
+  A man with you offers to break it for you, and you can scatter the pieces instead.
+  Someone swings, sihedron shatters.
   If you, you die.  If friend, you carry 1x shard, 13 people take the other 6x shards and 7x stones.  You are ambushed & killed on your way out.
 
 
