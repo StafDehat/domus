@@ -1,24 +1,84 @@
-Longsword, but sized for a Large-sized creature, so can be wielded as if a Greatsword.
+Nightblood - Large-sized longsword, Black blade & hilt, aluminum sheath.
 
+Always:
 Aura = Strong Necromantic
 
-Identify = +2 GhostTouch Greatsword, plus ~Energy Adaptation
-https://www.d20pfsrd.com/psionics-unleashed/psionic-powers/e/energy-adaptation/
-Resist 5 vs electricity, fire, or sonic - occurrence causes black smoke to exude from sword.
+Identify = +2 GhostTouch Greatsword
 
-Nightblood - Black blade & hilt, aluminum sheath.
-Feels unnaturally heavy, until unsheathed.
+Sentience. Nightblood is a sentient chaotic-neutral weapon with:
+INT 12
+WIS 10
+CHA 16
+It has hearing and darkvision out to 120ft. 
 
-+2 GhostTouch Greatsword, generates an anti-magic field?
+If 72 hours pass without killing, 
+
+
+While Sheathed:
++2 GhostTouch Greatsword (but only bludgeoning damage)
+Unnaturally heavy - All attack rolls made at disadvantage.
+
+
+When unclasped:
+Black liquid leaks out the sheath, smoking as it hit ground.
+DC10 Will save vs drawing.
+  Good players make with Advantage
+  Evil players make with Disadvantage
+
+Aura of Temptation (30ft), DC15
+  Good creatures save vs Sickened
+  Neutral/Evil creatures save vs Compel Hostility
+
 
 When drawn:
++3 GhostTouch Greatsword
+
+Black liquid splashes out of sheath, smoking as it hits ground.
+Black liquid flows from the sword, smoking as it hits ground.
+Black smoke 'round wielder provides partial concealment (20% miss chance).
+
+Energy Adaptation:
+https://www.d20pfsrd.com/psionics-unleashed/psionic-powers/e/energy-adaptation/
+Resist 5 vs electricity, fire, or sonic
+
+Unnaturally light - All attack rolls made with Advantage.
+
 DC10* Will save every round
-*DC increases by 2 for each successful save.
+*DC increases by 2 for each successful save, resets when sheathed
+  If character is Good, Will save is with Advantage.
+  If character is Evil, Will save is with Disadvantage.
 
-If pass Will Save: 1d4 necrotic damage, and blackness creeps up the veins.
-If fail Will Save: Berserk (+Barb Rage, forced attack closest creature)
+If success:
+  1d4 necrotic damage
+  Blackness creeps up the veins.
+If fail:
+  Berserk Rage
 
-How to recover once berserk?
+
+While raging:
+DC15 Will save, per-round, to un-rage
+  If character is Good, Will save is with Advantage.
+  If character is Evil, Will save is with Disadvantage.
+
++2 bonus on melee attack rolls & STR-based damage rolls
++2 Will saving throws.
+–2 penalty to Armor Class.
++2 tempHP per level
+
+Wielder takes 3d4 necrotic damage per round.
+
+Forced to attack the closest non-good creature.
+If none in sight, seppukku (takes 2 rounds).
+Seppukku immediately reduces character to -1 HP, and character is "dying".
+
+
+Post Rage:
+Temp HP are immediately lost.
+
+
+When Sheathed:
+Wielder is Fatigued until next Short Rest.
+
 
 
 
