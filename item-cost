@@ -1,0 +1,61 @@
+Weapons:
++masterwork = 300 for single, 600 for double-weapon
++magic:
+Weapon Bonus	Base Price (gp)1
++1	2,000
++2	8,000
++3	18,000
++4	32,000
++5	50,000
++6	72,000
++7	98,000
++8	128,000
++9	162,000
++10	200,000
+
+Base cost of weapon
++300 to make it masterwork
++2000 to make it a +1, or 8000 for +2
+Note that "Keen" essentially counts as +1 for pricing purposes.
+
+Keen Falchion (masterwork) = 2375gp
++1 Keen Falchion = 8375gp
+Keen Greatsword (masterwork) = 2350gp
++1 Keen Greatsword = 8350gp
+
+
+Note: Weapons without a +X enhancement bonus will not count as magical weapons,
+  for the purpose of overcoming a creature's damage reduction.
+
+https://www.d20pfsrd.com/gamemastering/special-abilities/#TOC-Damage-Reduction
+
+So for example, Young Adult Black Dragons have DR5/magic.  This means if you were to attack Black Fang with a Keen Falchion, the weapon would do 2d4 damage, plus your STR mod, but since this weapon is not doing "magic" damage, but rather is magically-enhanced to do more "crit" damage, it would not overcome the damage resistance, and final damage would be reduced by 5.
+If you were attacking with a +1 Keen Falchion however, damage would be 2d4 plus your STR mod, +1 from the magical enhancement, and since that +1 means the sword's doing magic damage, you would *not* deduct 5 from the total damage.
+TL;DR: 2375gp for 2d4+STR-5, vs 8375gp for 2d4+STR+1
+
+
+Since Isaac is headed toward building a crit-fisher, I should nail down exactly how we're going to handle critical hits.  I'm going with RAW pathfinder rules for this.
+
+Nat-20 always hits.
+Your roll has to both hit, and be a natural (within-crit-range) to threaten.
+Your confirmation roll has to be a hit, to confirm the crit.
+
+Say you're wielding a Normal Falchion (2d4 damage, 18-20/x2 crit), and you have a +6 BAB and +4 STR bonus.  ie: Dakath.
+Attack roll = d20+BAB+StrMod, so d20+10 in this case.
+
+You attack a monster with AC 32.
+  * You roll a natural 18.  +10=28, which fails to hit AC=32, so you miss (even though 18 is within the crit range of your weapon).  Since this missed, it's also not a crit.
+  * You roll a natural 20.  20+10=30, which would fail to hit an AC 32, but natural 20 always hits anyway, so this hits.  20 is also within the crit range of your weapon (20 always is), so you threaten to crit.  Since 20 is the only thing that hits this creature, you only confirm your crit if you roll another 20.
+
+You attack a monster with AC 24.
+You roll a natural 18.  +10 = 28, which beats 24, so it's a hit.
+Also, 18 is within the crit range of your weapon, so this threatens crit.  Roll to confirm.
+This could go two ways now:
+  * You roll a natural 12.  +10 =22, which would fail to hit an AC 24, so you do not confirm crit.  Roll for damage normally.
+  * You roll a natural 15.  +10=25, which hits an AC 24, so you have crit'd.  Roll for damage twice.
+
+You attack a monster with AC 24.
+You roll a natural 14.  +10=24, which meets the AC, so it hits.
+14 is not within the crit range (18-20) though, so you do not threaten to crit.
+
+
