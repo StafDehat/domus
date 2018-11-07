@@ -1,0 +1,17 @@
+FireResist 5
+
+Boiling Blood (Su)
+Any creature damaging you with a non-reach piercing or slashing weapon takes 1d4 fire damage on each successful hit.
+
+Flaming Weapon (Su)
+Free action: Ignite weapon, adding 1d6 fire damage.
+Stacks with existing fire damage from same weapon.
+
+Smoke Breath (Su)
+Swift action: Breath a cloud of poisonous smoke, 5ft radius.
+Dissipates at beginning of your next turn.
+A moderate wind disperses the smoke (11+ mph)
+Creatures beginning their turn in the smoke make DC13+ConMod Fort save vs Sickened 1 round.
+Successful save grants immunity for 24 hours.
+
+

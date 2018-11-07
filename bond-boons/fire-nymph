@@ -1,0 +1,17 @@
+FireResist 5
+
+Fiery Mantle (Sp)
+As "Fire Shield (warm)"
+Casting Time 1 standard action
+Duration 1 round/level (D)
+This spell wreathes you in flame and causes damage to each creature that attacks you in melee.
+The flames also protect you from cold-based attacks.  You take only half damage from cold-based attacks.
+  If such an attack allows a Reflex save for half damage, you take no damage on a successful saving throw.
+Any creature striking you with its body or a hand-held weapon deals normal damage, but at the same time
+  the attacker takes 1d6 points of damage + 1 point per your level (maximum +15).
+This damage is fire damage.
+If the attacker has spell resistance, it applies to this effect.
+Creatures wielding melee weapons with reach are not subject to this damage if they attack you.
+When using this ability, you appear to immolate yourself, but the flames are thin and wispy,
+  increasing the light level within 10 feet by one step, up to normal light.
+

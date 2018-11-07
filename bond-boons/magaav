@@ -1,0 +1,9 @@
+FireResist 5
+
+Noxious Breath (Su):
+Swift action
+Range: 5ft
+DC13+ConMod (Min=16) Fort save vs Sickened 1d4 rounds.
+Successful save = Immune for 24 hours
+This is a poison effect.
+

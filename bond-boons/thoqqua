@@ -1,0 +1,14 @@
+Molten Blood (Su)
+Based off Thoqqua's Molten Body.
+Your blood is hot enough to melt stone.
+Anyone exposed to the blood, or doing piercing or slashing damage with a natural weapon or unarmed strike, takes 1d6 points of fire damage.
+Grappling, or being grappled by, the subject yields 2d6 points of fire damage each round the grapple persists.
+A creature using a manufactured weapon to deal piercing or slashing damage to the subject with a manufactured weapon
+  can attempt a DC11+ConMod Reflex save to fling the burning blood off the weapon quickly enough to avoid having the weapon
+  take 1d6 points of fire damage.
+  Damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores
+  the first 5 points of hardness possessed by the item.  As a result, most metal weapons generally take very little
+  damage, but wooden weapons have a significant chance of burning away.
+
+FireResist 10
+

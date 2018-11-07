@@ -1,0 +1,8 @@
+FireResist 5
+ColdResist 5
+
+Wall of Ice (Sp)
+3/day Standard Action
+A wall of ice cannot form in an area occupied by physical objects or creatures. Its surface must be smooth and unbroken when created.
+Any creature adjacent to the wall when it is created may attempt a Reflex save (DC10+4+ChaMod)to disrupt the wall as it is being formed.
+
