@@ -1,1 +1,67 @@
-The skill Craft(Ward) is used to 
+The skill Craft(Ward) is used to inscribe.
+http://thedemoncycle.wikia.com/wiki/Category:Wards
+
+These runes do not contain power of their own, but rather transform and direct the power inherent in extraplanar beings.
+When exposed to Outsiders, these runes are energized and result in various effects, determined by the nature of the runes.
+
+The runes must be clear & visible to be effective.
+If you draw 'em in dirt, and it rains on that dirt, the wards will be become obscured, and cease functioning.
+As armor becomes scratched over time, inscribed wards will lose their effectiveness.
+Etc.
+
+
+
+The generic succor rune provides limited defense against all outsiders.
+
+Various defensive runes exist which apply to a specific creature subtype:
+http://www.d20pfsrd.com/bestiary/rules-for-monsters/creature-types/
+These subtype-specific runes are more effective than generic succor runes.
+
+A defensive "Energy" rune also exists, which can be combined with a specific energy-type rune to provide defense against that energy.
+ie: Energy+Fire = Protection from a fire-based BreathWeapon.
+
+
+
+Each offensive rune applies to a particular type of damage:
+Piercing
+Bludgeoning/Impact
+Slashing/Cutting
+Stasis
+Pressure?
+
+
+
+Energy runes can be used to modify the effect of other runes:
+Acid
+Cold
+Electricity
+Fire
+Force
+Sonic
+Positive
+Negative
+
+Various other runes exist with specialized purposes:
+Unsight (Stealth bonuses vs Outsiders)
+Blending (Stealth bonus vs all)
+Wardsight (See magical spectra)
+Light (Commonly used as an alarm system)
+Prophecy (As Augury)
+Moisture (Forced condensation or evaporation)
+Confusion
+Heal
+Reinforce (Increase hardness)
+Pressure
+
+
+
+The base DC to inscribe is 15.
+When combining runes, the DC increases by 4 for every rune beyond the first.
+For every 5 that the DC is exceeded, the effect is increased by +1.
+
+So, inscribing defensive "Fire"-subtype runes on a suit of armor would require a DC15 Craft(Wards) check.
+On a roll of 15-19, the crafting succeeds and the armor grants an additional +1 AC vs Outsiders with the Fire subtype.
+On a roll of 20-24, the armor grants an additional +1, for a total of +2 AC vs Outsiders with the Fire subtype.
+On a failure of 10 or more (ie: 4 or less), the armor might even be damaged, depending on the material being used to inscribe.
+  ie: Paint could be cleaned off, but if carving, the cuts may weaken the original material.
+
