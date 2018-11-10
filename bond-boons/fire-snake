@@ -1,0 +1,12 @@
+Poison resilience
++1 saves vs Poison effects
+
+Venom (Su)
+Your saliva contains an anesthetizing venom that acts as an injury poison.
+You are immune to the effects of this venom, but creatures exposed to your saliva
+  must succeed on a DC11+ConMod Fort save or be paralyzed for 1d6 rounds.
+Note: This is not a contact poison - you can not simply spit on someone's arm to affect them.
+  You must introduce your saliva to the bloodstream or a mucous membrane.
+
+FireResist 5
+

@@ -3,57 +3,83 @@ Archdevil, Fatagris
 Fatagris CR 27?
 
 # XP 2,457,600
-LE Large outsider (evil, lawful, fire)
-
+LE Large outsider (Evil, Lawful, Fire)
 
 # Init +13; Senses darkvision 60 ft., detect chaos, detect good, see in darkness, true seeing; Perception +44
 # Aura frightful presence (120 ft., DC 35), unholy aura (DC 28)
 
 DEFENSE
-
 # AC 44, touch 36, flat-footed 34 (+4 deflection, +9 Dex, +1 dodge, +8 natural, +12 profane)
-# hp 604 (31d10+434); regeneration 30 (deific or mythic)
+# hp 604 (31d10+434); FastHealing 20
 # Fort +28, Ref +32, Will +31; +8 vs. mind-affecting effects
 # Defensive Abilities improved evasion, infernal resurrection, mind blank; DR 20/epic, good, and silver; Immune ability damage, ability drain, charm, compulsion, death effects, energy drain, fire, petrification, poison; Resist acid 30, cold 30; SR 37
 
 OFFENSE
-
-# Speed 40 ft.; air walk
-# Melee Eyjatas +41/+41/+41/+36/+36/+31/+31/+26 (1d6+19/19–20), beard +36 (1d8+5 plus bleed and disease)
-# Special Attacks barbed beard, bleed (2d6), counterport, festering filth
+Speed: 40ft; fly 90ft
+Melee:
+  10x Snake Fingers, (1d8+1 plus Bleed & Poison)
+#Eyjatas +41/+41/+41/+36/+36/+31/+31/+26 (1d6+19/19–20), beard +36 (1d8+5 plus bleed and disease)
+Special Attacks:
+  Bleed (1d3 per bite wound)
 # Spell-Like Abilities (CL 26th; concentration +36)
 
 # Constant—air walk, detect chaos, detect good, mind blank, speak with animals, true seeing, unholy aura (DC 28)
-# At will—astral projection, blasphemyM (DC 27), desecrateM, dominate personM (DC 25), greater dispel magic, dominate animal (DC 23), greater scrying (DC 27), greater teleport, plane shiftM (DC 27), unhallow, unholy blightM (DC 24)
+# At will—astral projection, blasphemy (DC 27), desecrateM, dominate personM (DC 25), greater dispel magic, dominate animal (DC 23), greater scrying (DC 27), greater teleport, plane shiftM (DC 27), unhallow, unholy blightM (DC 24)
 # 3/day—banishment (DC 27), quickened contagionM (DC 24), dimensional lockM, mazeM, summon devils
 # 1/day—gate, time stopM, wishM
 
 # M Barbatos can use this ability’s mythic version in his realm.
 
 STATISTICS
-
-# Str 30, Dex 29, Con 38, Int 29, Wis 30, Cha 31
-# Base Atk +31; CMB +41 (+45 trip); CMD 77 (79 vs. trip)
-# Feats Combat Expertise, Combat Reflexes, Deflect Arrows, Dodge, Double Slice, Greater Trip, Greater Two-Weapon Fighting, Improved Critical (quarterstaff), Improved Initiative, Improved Lightning Reflexes, Improved Trip, Improved Two-Weapon Fighting, Lightning Reflexes, Mobility, Quicken Spell-Like Ability (contagion), Two-Weapon Fighting
+Str 30
+Dex 36
+Con 30
+Int 34
+Wis 28
+Cha 28 
+Base Atk: +31; CMB +41; CMD 77
+# Feats: Combat Expertise, Combat Reflexes, Deflect Arrows, Dodge, Double Slice, Greater Trip, Greater Two-Weapon Fighting, Improved Critical (quarterstaff), Improved Initiative, Improved Lightning Reflexes, Improved Trip, Improved Two-Weapon Fighting, Lightning Reflexes, Mobility, Quicken Spell-Like Ability (contagion), Two-Weapon Fighting
 # Skills Acrobatics +40, Bluff +44, Diplomacy +41, Handle Animal +44, Intimidate +41, Knowledge (arcana, religion) +40, Knowledge (nature, planes) +43, Linguistics +43, Perception +44, Sense Motive +44, Spellcraft +43, Stealth +43, Use Magic Device +41
-# Languages all (language mastery); speak with animals; telepathy 300 ft.
+Languages: Understands all; Speaks Common, Infernal, Ignean, Undercommon; telepathy 300 ft.
 # SQ change shape (animal, humanoid, and magical beast; shapechange), hear name, sphere of souls
 
 SPECIAL ABILITIES
 
-# Barbed Beard (Ex)
-# The bleeding caused by Barbatos’s slashing beard requires a successful DC 39 Heal check (or caster level check, for magical healing) to stanch. The save DC is Constitution-based.
+AntiCoagulant (Ex)
+The bleeding caused by Fatagris' snake fingers requires a DC25 Heal check (or caster
+level check, for magical healing) to stanch.
 
-# Counterport (Su)
-# As an immediate action, Barbatos can negate any conjuration (calling, summoning, or teleportation), effect within 30 feet, or redirect creatures to new valid destinations within 30 feet. Affected creatures take 10d6 points of damage, but with a successful DC 35 Fortitude save, a creature takes only half damage and can teleport normally.
-# 
-# As a standard action, Barbatos can recall one creature that teleported since the end of his last turn. This functions as above, but the creature returns to the point from which it teleported (or the nearest available space, if that space is now occupied); the teleported creature can resist being recalled with a successful DC 35 Will save. The save DCs are Charisma-based.
-# 
-# Festering Filth (Su)
-# A creature struck by Barbatos’s filthy beard contracts blinding sickness if it fails a DC 39 Fortitude save. Attempts to remove this disease via a spell effect must first overcome Barbatos’s spell resistance before attempting to remove the disease normally as per the spell’s rules. The save DC is Constitution-based.
+Construct Mastery (Su)
+Fatagris avoids battle, prefering to use servants and constructs.
+Ages of practice with artificery has given him an innate understanding of magical
+constructs, and he is often able to exploit flaws in others' designs.  With a Will
+save vs a Construct's Spell DC, Fatagris can turn a magical construct to his own
+purposes, effectively stealing control of the construct, or at least negating
+any benefits granted the original user of the construct.  This ability requires that
+Fatagris be in physical contact with the Construct, and must make two successful
+saves before gaining control of the construct.  Each attempt is a Standard Action.
 
-# Hear Name (Su)
-# Barbatos hears his name when it is spoken, regardless of distance and even across planar boundaries. If a creature speaks Barbatos’s name three times in the same breath, Barbatos learns the creature’s name and precise location, and can hear the next 21 words spoken by that speaker. Once per day, if any living animal or an image or statue of Barbatos is within 10 feet of the speaker, Barbatos can answer the speaker via that image, statue, or animal (an animal can resist being made Barbatos’s mouthpiece with a successful DC 35 Will save). Barbatos can observe, converse, or utilize his spell-like abilities through this vessel for up to 13 rounds, but if Barbatos uses a spell-like ability through this link, the connection immediately ends thereafter, regardless of any remaining duration. The save DC is Charisma-based.
+#Counterport (Su)
+#As an immediate action, Barbatos can negate any conjuration (calling, summoning, or teleportation), effect within 30 feet, or redirect creatures to new valid destinations within 30 feet. Affected creatures take 10d6 points of damage, but with a successful DC 35 Fortitude save, a creature takes only half damage and can teleport normally.
+#As a standard action, Barbatos can recall one creature that teleported since the end of his last turn. This functions as above, but the creature returns to the point from which it teleported (or the nearest available space, if that space is now occupied); the teleported creature can resist being recalled with a successful DC 35 Will save. The save DCs are Charisma-based.
+
+Venomous Touch (Ex)
+Each of Fatagris' fingers ends in a long snake.  These snakes possess a necrotic venom.
+As a full-round action, Fatagris can attack with all 10x of these snakes as natural
+weapons, each using his full BAB.  A successful hit deals X damage, and the defender
+must succeed at a DC 20+X Fortitude save or contract Deathblade poison.
+The save DC increases by X, where X=2*NumberOfSuccessfulBites.
+These natural attacks may be divided between targets, but must attack in sets of 5 (one hand per target).
+
+Coercion (Sp)
+As a Swift Action, Fatagris may initiate a contest of will with any creature within sight that has
+been bonded to a devil via the Fatagrin church baptismal ceremony.  Fatagris makes a Will save to set
+the Save DC.  Target creature must succeed at a Will Save vs the Save DC, or fall under control of
+Fatagris.
+Target may attempt a new Will Save at the end of its turn, and any time it takes damage from a physical
+or magical attack (ongoing bleed, poison, etc damage does not grant a new save).
+Every failed save reduces the Save DC by 1.
+After a successful save, target is immune to Fatagris' Coercion for 24 hours.
 # 
 # Sphere of Souls (Su)
 # As a full-round action, even when he is projecting his consciousness through his likeness or an animal, Barbatos can create a polished black crystal sphere that functions as a crystal ball with detect thoughts, which also grants him the benefits of status for 13 hours on one creature scried by the user. Each round a creature other than Barbatos uses the sphere, it must save against Barbatos’s dominate person ability. Barbatos can freely manipulate the vision the scryer sees, as false vision, and can use detect thoughts and scrying at unlimited range on any creature within 10 feet of the sphere, with no save and with a +10 bonus on caster level checks. Effects that normally block scrying spells instead allow each creature a saving throw and negate the bonus on caster level checks. Barbatos can have up to 13 such spheres at a time, and can destroy a sphere as a free action from any distance.
@@ -64,7 +90,7 @@ Environment any (Hell)
 Organization solitary (unique)
 Treasure triple (, other treasure)
 
-Fatagris was known on the world of Golarion, as the archdevil Typhon.  
+Fatagris exists on Golarion in the form of an Archdevil.  In actuality, this Archdevil is the avatar of the God Typhon.
 Barbatos is a mystery among the lords of Hell, a being from beyond who came into the service of Asmodeus a mere millennium ago. Technically not a devil, Barbatos is nonetheless the archdevil of the uppermost layer of Hell. Since his arrival, he has served as the doorwarden of Hell, guarding its outer layer from angelic invasions and fiendish forays alike, and dealing with an endless stream of damned souls needing guidance to their final purgatory and tearful petitioners willing to risk everything for one final glimpse of their lost loves.
 
 Barbatos dresses plainly, rarely showing more than his wicked staff and rumpled cloak, and stands 5 feet tall.
@@ -80,10 +106,11 @@ DESTRUCTION
 
 To destroy Eyjatas, the quarterstaff’s dozens of eyes must be blinded by the purifying light of an unwavering truth spoken by an immortal that has only ever spoken lies in its life. Once the eyes are blinded in this way, the staff must be hurled into a magical portal that has no entrance and that leads nowhere.
 
-Barbatos’s Cult
-Barbatos is the master of the rippling dimensions between worlds, and is worshiped by those who tread the hidden interstitial spaces of the universe, as well as those who manipulate animals and wild beasts, warping them through foul sorceries into sinister servants. His sacred places are found near crossroads, marketplaces, and ports, some accessible only by teleportation. As befits his role as the guardian to the entrance to Hell (and his association with gateways of all types), entrances to compounds are often held with particular reverence by Barbatos’s cult, and the doorways or arches that provide access to his temples or other sites sacred to him often bear his likeness or symbol.
+Fatagris’ Cult
+Fatagris has grown intimately familiar with the goals
+, and is worshiped by those who tread the hidden interstitial spaces of the universe, as well as those who manipulate animals and wild beasts, warping them through foul sorceries into sinister servants. His sacred places are found near crossroads, marketplaces, and ports, some accessible only by teleportation. As befits his role as the guardian to the entrance to Hell (and his association with gateways of all types), entrances to compounds are often held with particular reverence by Barbatos’s cult, and the doorways or arches that provide access to his temples or other sites sacred to him often bear his likeness or symbol.
 
 Fatagris’ unholy symbol is three pairs of wings, one pair oriented upward, one downward, and one to the sides.
-His favored weapon is the scorpion whip, but followers are also proficient in the use of a scorpion whip as a normal whip.
-He grants access to the Law, Fire, Artifice, Rune domains and to the Judgement, Inevitable, Construct, and Wards subdomains.
+His favored weapon is the scorpion whip, and his followers are proficient in its use as both a scorpion whip, and also as a normal whip.
+He grants access to the Law, Fire, Artifice, Rune domains and to the Judgement, Trap, Construct, and Wards subdomains.
 

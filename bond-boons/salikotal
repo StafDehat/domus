@@ -1,0 +1,16 @@
+FireResist 5
+
+Contract Killer (Su)
+1/day, free action
+Declare a creature you have marked for death.
++2/+2 vs that creature for the day.
+The target may be any specific creature known of, even if you've not seen the target before.
+
+Locate Creature (Sp)
+At Will, Full-Round action
+Range: 400 ft + 40 ft/level
+You slowly turn and sense when you are facing in the direction of the creature you have marked for death, provided it is within range.
+You also know in which direction the creature is moving, if any.
+Running water blocks the spell. It cannot detect objects. It can be fooled by mislead, nondetection, and polymorph spells.
+
+
