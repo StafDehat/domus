@@ -1,0 +1,20 @@
+----------------------------------------
+Cleric domain abilities
+L1 Rune - Blast Rune (Sp):
+As a standard action, you can create a blast rune in any adjacent square. Any creature entering this square takes 1d6 points of damage + 1 point for every two cleric levels you possess. This rune deals either acid, cold, electricity, or fire damage, decided when you create the rune. The rune is invisible and lasts a number of rounds equal to your cleric level or until discharged. You cannot create a blast rune in a square occupied by another creature. This rune counts as a 1st-level spell for the purposes of dispelling. It can be discovered with a DC 26 Perception skill check and disarmed with a DC 26 Disable Device skill check. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+L1 Artifice - Artificer’s Touch (Sp):
+You can cast mending at will, using your cleric level as the caster level to repair damaged objects. In addition, you can cause damage to objects and construct creatures by striking them with a melee touch attack. Objects and constructs take 1d6 points of damage +1 for every two cleric levels you possess. This attack bypasses an amount of damage reduction and hardness equal to your cleric level. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+
+L8 Rune(Wards) - Warding Rune (Su):
+At 8th level, when a creature is damaged by your blast rune, it cannot attack you for a number of rounds equal to 1/2 your cleric level unless it succeeds at a Will save, as per the spell sanctuary. Using this ability is an immediate action when a creature triggers one of your blast runes. The ability does not prevent you from being attacked or affected by area of effect spells or abilities. You can use this ability once per day at 8th level, plus one additional time per day at 14th level and 20th level.
+
+L8 Artifice(Trap) - Supernatural Trap (Su):
+At 8th level, select a supernatural ranger trap. You can use this trap a number of times per day equal to your Wisdom bonus. The DCs for Perception checks, Disable Device checks, and saving throws against the trap are equal to 10 + 1/2 your character level + your Wisdom bonus. The trap lasts for 1 hour or until triggered.
+----------------------------------------
+Demon-Bond (Tormentor of Souls)
+Casting Time: 1 standard action, unlimited uses
+Range: 100 ft. + 10 ft./level (160ft)
+One living creature makes DC14 Will vs Shaken for 1min/lvl  (SR=yes)
+Shaken = –2 penalty on attack rolls, saving throws, skill checks, and ability checks
+
