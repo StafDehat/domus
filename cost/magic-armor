@@ -1,0 +1,27 @@
++Masterwork = +150gp
+  Reduces Armor Check Penalty by 1
+
++Mithral:
+Spell failure -10%, MaxDex +2, Armor Check Penalties -3 (min:0, does not stack with masterwork)
+Type of Item	Item Cost Modifier
+Light armor	+1,000 gp
+Medium armor	+4,000 gp
+Heavy armor	+9,000 gp
+Shield		+1,000 gp
+Other items	+500 gp/lb.
+
++Magic:
+Bonus	Base Price
++1	1,000
++2	4,000
++3	9,000
++4	16,000
++5	25,000
++6*	36,000
++7*	49,000
++8*	64,000
++9*	81,000
++10*	100,000
+
+* An armor or shield can’t have an enhancement bonus higher than +5. Use these lines to determine price when special abilities that count as additional bonuses are added in.
+
