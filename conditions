@@ -1,0 +1,40 @@
+Antagonized = Forced to target creature, Sense Motive (swift) vs Antagonize check to abort.
+Bleed = Dmg at start of turn, DC15 Heal (or spell) to stop.
+Blinded = AC-2, AC-Dex, 50% Miss, -4 Str/Dex skills & Perception, DC10 Acrobatics to move >1/2speed, else prone.
+Broken = Weapon=-2/-2, Armor=AC/2 & 2xSkill-, Tool=-2, Wand=2xChargeCost
+Chilled = STR-2, DEX-2, NoRun, NoCharge
+Confused = Fight Back, Avoid friendly Touch, Action=25% normal/waste/hurtSelf/berserk
+Cowering = AC-2, AC-Dex, No Actions
+Dazed = No Actions, probably 1 round
+Dazzled = -1/-0, -1 Perception
+Deafened = -4 Initiative, -4 Perception, 20% Arcane Failure (verbal)
+Disabled = Speed/2, Move or Standard (not both), Standard = 1 dmg.
+Dying = DC10+NegHP CON to stabilize, Failure=1dmg, NegCON=Death
+Energy Drained = Negative levels.  Effectively Level0=Death.
+Entangled = Speed/2, NoRun, NoCharge, -2/-0, DEX-4, DC15+SpellLvl Concentration to cast.
+Exhausted = Speed/2, NoRun, NoCharge, STR-6, DEX-6, Rest1hr=Fatigued instead.
+Fascinated = NoAction, ReactionSkills-4, Danger=Re-Save, OutrightThreat=EffectEnds, Shaken free as Standard Action.
+Fatigued = NoRun, NoCharge, STR-2, DEX-2, Exertion=Exhausted
+Flat-Footed = AC-Dex, CMD-Dex, NoAoO, UncannyDodge avoids.
+Frightened = Flee if possible, else fight.  -2/-0, Saves-2, Skills-2, Abilities-2
+Grappled = NoMove, Dex-4, -2/-0, OneHandActionsOnly, DC10+CMB+SpellLvl to cast.
+Helpless = Dex=0(Mod=-5), AC-4vsMelee, Vulnerable to Coup de Grace.
+Incorporeal = Immune to NonMagical, MagicalDmg/2, FullDmg from Force & other Incorporeals.
+Invisible = +2/+0 vs Sighted, Ignore AC from DEX, Immune to Sneak & Ranger Dmg
+Nauseated = No Standard actions.  Only a single move action.
+Panicked = Drop everything & Flee in random direction, Saves-2, Skills-2, Abilities-2, Cornered=TotalDefense, 
+Paralyzed = NoPhysicalActions, STR=0, DEX=0, Helpless, You slow but don't block opponents (2x move cost)
+Petrified = Stone, Unconscious.  Restores to Flesh in same physical position as statue (ie: Missing arm)
+Pinned = NoMove, AC-Dex, AC-4, Spells=DC10+CMD+SpellLevel, CMB/Escape to end
+Prone = -4/-0, NoRanged, AC+4vsRange, AC-4vsMelee.  Standing=Move & provokes AoO.
+Shaken = -2/-0, Saves-2, Skills-2, Abilities-2
+Sickened = -2/-2, Saves-2, Skills-2, Abilities-2
+Sinking = NoMove, NoAttack, sunk in 10 rounds, 25dmg=1round of sinking.
+Stable = Unconscious, Helpless, DC10 CON 1/hr to awaken.  If self-stabilized, CON failure = 1dmg
+Staggered = Move or Standard, not both.  Still get free/swift/immediate actions.
+Stunned = Drop everything, AC-2, AC-Dex, CMD-4
+Unconscious = Helpless
+Asleep = Resting, Helpless, Perception-10
+Drowsy, Mild = Skills-2, Abilities-2, Initiative-2, Concentration-2, Reflex-2, Will-2
+Drowsy, Moderate = Skills-4, Abilities-4, Initiative-4, Concentration-4, Reflex-4, Will-4, 25% arcane failure, DC10Wis every 30m vs Sleep 1d10m,
+Drowsy, Severe = Skills-8, Abilities-8, Initiative-8, Concentration-8, Reflex-8, Will-8, 50% arcane failure, Cannot regain spells, DC10Wis every 1m vs Sleep 1d10m,
