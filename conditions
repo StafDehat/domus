@@ -38,3 +38,4 @@ Asleep = Resting, Helpless, Perception-10
 Drowsy, Mild = Skills-2, Abilities-2, Initiative-2, Concentration-2, Reflex-2, Will-2
 Drowsy, Moderate = Skills-4, Abilities-4, Initiative-4, Concentration-4, Reflex-4, Will-4, 25% arcane failure, DC10Wis every 30m vs Sleep 1d10m,
 Drowsy, Severe = Skills-8, Abilities-8, Initiative-8, Concentration-8, Reflex-8, Will-8, 50% arcane failure, Cannot regain spells, DC10Wis every 1m vs Sleep 1d10m,
+
