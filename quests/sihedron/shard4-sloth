@@ -6,9 +6,10 @@ Description:
 The Shard of Sloth is made of blue-green glowing abysium. As long as the Shard of Sloth is carried, its owner can use summon monster III as a spell-like ability once per day, gains a +2 insight bonus on saves versus conjuration spells, and gains a +4 insight bonus on all concentration and caster level checks.
 
 Curse:
-All of the owner’s movement speeds are halved.
+You are Mildly Drowsy - no save
+Movement speed halved.
+DC20 Will save per turn.  Failure=No Standard Immediate actions.
 After being awake for 1 hour:
   DC15 Will vs Sleep.  Success buys another hour.
   Failure means you Sleep for 25 minutes, as per https://www.d20pfsrd.com/magic/all-spells/s/sleep
   This sleep does not count as a Rest.  You may still long-rest at your leisure.
-
