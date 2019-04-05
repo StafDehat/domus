@@ -3,8 +3,37 @@ Source Pathfinder #61: Shards of Sin pg. 68 (Amazon)
 Aura overwhelming necromancy CL 25th
 Slot none; Price —; Weight 1 lb.
 Description
-The Shard of Gluttony is made of pale inubrix. As long as the Shard of Gluttony is carried, its owner can use vampiric touch as a spell-like ability once per day, gains a +2 insight bonus on saves versus necromancy spells, and increases his maximum hit points by 1 point per Hit Die.
+The Shard of Gluttony is made of pale inubrix.
+As long as the Shard of Gluttony is carried, its owner can use vampiric touch as a spell-like ability at-will,
+  gains a +2 insight bonus on saves versus necromancy spells,
+  and increases his maximum hit points by 1 point per Hit Die.
+At-Will: Vampiric Touch (Sp)
 
-Curse: The owner is always hungry and thirsty, and is sickened whenever he has not eaten food in the past hour. The owner must make a DC 20 Will save to resist consuming any food or beverage (including potions and the like) he carries immediately. If the save is successful, the owner can resist the urge for 1 hour before being forced to make the save again.
+Curse:
+On pickup: DC20 Will save vs eat/drink all consumables on person.
+You are compelled to indulge.  All things nourishing and/or enjoyable, you want that.  ie: Healing potions, cast healing spells, eat, drink, sex, etc.  This includes spells/abilities that steal life.
+When in melee range of a creature, DC15 Will vs Vampiric Touch on them.
 
-Basically turns the owner into a vampire?
+Cumulative bonuses:
+Successively giving in to gluttonous desires increases the curse & benefits.
+Upon killing a creature with Vampiric Touch:
+  Creatures killed by your necromantic (Sp) become minions (zombies) under your control.
+  You can sense the minion's essence, and its existence makes you stronger.
+  DC+2 vs curse
+On 10 zombies:
+  Passive: Vampiric Shadow Shield
+  DC+2 vs curse
+On 25 minions:
+  Passive: Aura of Cannibalism (DC??)
+  DC+2 vs curse
+On 50 zombies:
+  Vampiric Touch becomes Greater Vampiric Touch
+  DC+2 vs curse
+On 100 zombies:
+  Passive: Healing Thief within Aura of Cannibalism range.
+  No more saves - you automatically attack anything in range, stealing its life.
+On 200 minions:
+  Gain Craft Skeleton.
+
+If curse ends or cursed is slain, all minions become feral (ie: Zombie Horde)
+
