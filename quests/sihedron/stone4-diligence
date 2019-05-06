@@ -1,15 +1,18 @@
 Incandescent blue sphere
 
 Curse:
-Unable to long-rest.
-No HP regain, no spell renewals, etc.
-Resting causes sickened condition.
+You feel strongly compelled to action.
+You are impatient, unable to hold still, fidgety, and prone to impulsive actions.
++4 Initiative
+-4 Stealth
+Unable to delay or ready an action.
+
+DC20 Will save to rest.
+Failure = Unable to gain any benefit from resting.  No HP regain, no spell renewals, etc.
+
 
 Boon:
 This stone grants the wearer a +2 enhancement bonus to Wisdom.
-All move actions requiring a roll, are made with advantage.
 
-
-Plot:
 
 
